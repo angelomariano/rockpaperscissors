@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+#playerScore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#computerScore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#one{
+    background-color: lightskyblue;
+}
+
+#two{
+    background-color: bisque;
+}
+
+#three{
+    background-color: lightpink;
+}
+
+.buttondiv{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+/* img[src="karen.png"]{
+    width: 200px;
+    height: 200px;
+}
+
+img[src="man gaming"]{
+    width: 200px;
+    height: 200px; 
+} */
+
+
+
